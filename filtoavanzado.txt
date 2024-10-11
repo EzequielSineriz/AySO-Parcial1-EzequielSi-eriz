@@ -1,0 +1,2 @@
+Mi usuario es:
+El hash o pass encriptada de mi usuario:
